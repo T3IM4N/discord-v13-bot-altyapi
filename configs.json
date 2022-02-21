@@ -1,0 +1,10 @@
+{
+    "prefix": "Prefix",
+    "owner": "kendi idniz",
+    "version": "0.1",
+    "maincolor": "Özel renginiz (hex)",
+    "errorcolor":"#ff0000",
+    "successcolor":"#00FF00",
+    "warningcolor":"#FFFF00",
+    "token": "Token"
+}
